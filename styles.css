@@ -1,0 +1,33 @@
+.button{
+	color: #EFE;
+	font-family: sans-serif;
+}
+
+.action{
+	color: #DAA;
+	font-family: sans-serif;
+}
+
+.action-cell{
+	text-align: right;
+}
+
+.nyi{
+	color: #335;
+}
+
+h3{
+	color: #DDD;
+	font-family: sans-serif;
+}
+
+
+canvas{
+  width: 400px;
+  height: 500px;
+  border: 2px solid blue;
+}
+
+body{
+  background-color: #223;
+}
